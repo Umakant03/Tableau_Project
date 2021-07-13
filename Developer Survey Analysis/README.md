@@ -21,6 +21,18 @@ Identify 154 duplicate using Pandas duplicated method and drop the duplicate row
 Determine the missing values in dataset using Pandas isnull() method
 Normalize the Income column by converting developer income into Yearly Income.
 
+Part3:Exploratory Data Analysis
+In this part, begin working with the cleaned dataset from the previous part.
+ analyze the dataset to find the distribution of data,remove presence of outliers and the correlation between different columns
+
+Part4:
+creating  visualizations using the developer survey data. 
+The visualizations should highlight distribution of data, relationships between data, composition of data and comparison of data.
+
+
+
+
+
 
 
 
