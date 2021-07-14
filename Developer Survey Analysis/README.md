@@ -23,17 +23,22 @@ Determine the missing values in dataset using Pandas isnull() method and replace
 Normalize the Income column by converting developer income into Yearly Income.
 ### Part3:Exploratory Data Analysis
 In this part, begin working with the cleaned dataset from the previous part.
-analyze the dataset to find the distribution of data,remove presence of outliers and the correlation between different columns
-![cert](D2.png)
+analyze the dataset to find the distribution of data,remove presence of outliers and the correlation between different columns.
+<img src="D2.png"  height="250" width="600">
 ### Part3:Data Visualization
 creating  visualizations using the developer survey data. 
 The visualizations should highlight distribution of data, relationships between data, composition of data and comparison of data.
-![cert](D 1.png)
+<img src="D 1.png"  height="260" width="700">
 ### Part4:Building A Dashboard
 I have created a dashboard using Tableau. 
 Our dashboard will contain our data analysis, which should be intuitive and allow for the drill down of data.
-![cert](Current Technology Usage.png)
-![cert](Future Technology Usage.png)
+* #### Dashboard1:Current Technology Usage
+<img src="Current Technology Usage.png" >
+
+* #### Dashboard2:Future Technology Usage
+<img src="Future Technology Usage.png" >
+
+
 
 
 
