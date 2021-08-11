@@ -36,7 +36,7 @@ The visualizations should highlight distribution of data, relationships between 
 I have created a dashboard using Tableau. 
 Our dashboard will contain our data analysis, which should be intuitive and allow for the drill down of data.
 * #### Dashboard1:Current Technology Usage
-<img src="Current Technology Usage.png" >
+<img src="https://github.com/Umakant03/Tableau_Project/blob/main/Developer%20Survey%20Analysis/asset/Current%20Technology%20Usage.png" >
 
 * #### Dashboard2:Future Technology Usage
 <img src="Future Technology Usage.png" >
