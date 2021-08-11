@@ -25,12 +25,12 @@ Normalize the Income column by converting developer income into Yearly Income.
 In this part, begin working with the cleaned dataset from the previous part.
 analyze the dataset to find the distribution of data,remove presence of outliers and the correlation between different columns.
 
-<img src="D2.png"  height="260" width="700">
+<img src="https://github.com/Umakant03/Tableau_Project/blob/main/Developer%20Survey%20Analysis/asset/D2.png"  height="260" width="700">
 
 ### Part3:Data Visualization
 creating  visualizations using the developer survey data. 
 The visualizations should highlight distribution of data, relationships between data, composition of data and comparison of data.
-<img src="D 1.png"  height="260" width="700">
+<img src="https://github.com/Umakant03/Tableau_Project/blob/main/Developer%20Survey%20Analysis/asset/D%201.png"  height="260" width="700">
 
 ### Part4:Building A Dashboard
 I have created a dashboard using Tableau. 
@@ -39,7 +39,7 @@ Our dashboard will contain our data analysis, which should be intuitive and allo
 <img src="https://github.com/Umakant03/Tableau_Project/blob/main/Developer%20Survey%20Analysis/asset/Current%20Technology%20Usage.png" >
 
 * #### Dashboard2:Future Technology Usage
-<img src="Future Technology Usage.png" >
+<img src="https://github.com/Umakant03/Tableau_Project/blob/main/Developer%20Survey%20Analysis/asset/Future%20Technology%20Usage.png" >
 
 
 
